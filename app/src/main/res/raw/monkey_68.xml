@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>Testing faces</name>
+<comment>These are images from the PASCAL VOC 2011 dataset.
+   The face landmarks are from dlib's shape_predictor_68_face_landmarks.dat
+   landmarking model.  The model uses the 68 landmark scheme used by the iBUG
+   300-W dataset.</comment>
+<images>
+  <image file='monkey.png'>
+    <box top='104' left='19' width='731' height='873'>
+      <part name='00' x='69' y='261'/>
+      <part name='01' x='75' y='324'/>
+      <part name='02' x='97' y='379'/>
+      <part name='03' x='116' y='427'/>
+      <part name='04' x='139' y='463'/>
+      <part name='05' x='173' y='499'/>
+      <part name='06' x='204' y='542'/>
+      <part name='07' x='242' y='571'/>
+      <part name='08' x='297' y='576'/>
+      <part name='09' x='342' y='561'/>
+      <part name='10' x='379' y='531'/>
+      <part name='11' x='402' y='501'/>
+      <part name='12' x='423' y='452'/>
+      <part name='13' x='445' y='401'/>
+      <part name='14' x='451' y='334'/>
+      <part name='15' x='452' y='282'/>
+      <part name='16' x='446' y='214'/>
+      <part name='17' x='98' y='203'/>
+      <part name='18' x='130' y='181'/>
+      <part name='19' x='174' y='184'/>
+      <part name='20' x='204' y='190'/>
+      <part name='21' x='229' y='213'/>
+      <part name='22' x='291' y='201'/>
+      <part name='23' x='321' y='174'/>
+      <part name='24' x='356' y='165'/>
+      <part name='25' x='393' y='162'/>
+      <part name='26' x='408' y='190'/>
+      <part name='27' x='261' y='204'/>
+      <part name='28' x='267' y='241'/>
+      <part name='29' x='267' y='275'/>
+      <part name='30' x='270' y='317'/>
+      <part name='31' x='221' y='370'/>
+      <part name='32' x='248' y='385'/>
+      <part name='33' x='278' y='384'/>
+      <part name='34' x='306' y='382'/>
+      <part name='35' x='327' y='363'/>
+      <part name='36' x='127' y='247'/>
+      <part name='37' x='152' y='223'/>
+      <part name='38' x='185' y='227'/>
+      <part name='39' x='202' y='249'/>
+      <part name='40' x='181' y='267'/>
+      <part name='41' x='151' y='264'/>
+      <part name='42' x='315' y='243'/>
+      <part name='43' x='338' y='215'/>
+      <part name='44' x='369' y='214'/>
+      <part name='45' x='394' y='228'/>
+      <part name='46' x='379' y='257'/>
+      <part name='47' x='345' y='258'/>
+      <part name='48' x='208' y='480'/>
+      <part name='49' x='232' y='461'/>
+      <part name='50' x='260' y='449'/>
+      <part name='51' x='286' y='444'/>
+      <part name='52' x='309' y='446'/>
+      <part name='53' x='332' y='451'/>
+      <part name='54' x='359' y='468'/>
+      <part name='55' x='341' y='494'/>
+      <part name='56' x='310' y='508'/>
+      <part name='57' x='287' y='513'/>
+      <part name='58' x='259' y='510'/>
+      <part name='59' x='235' y='501'/>
+      <part name='60' x='240' y='482'/>
+      <part name='61' x='259' y='464'/>
+      <part name='62' x='285' y='459'/>
+      <part name='63' x='306' y='461'/>
+      <part name='64' x='327' y='469'/>
+      <part name='65' x='303' y='479'/>
+      <part name='66' x='287' y='484'/>
+      <part name='67' x='264' y='481'/>
+    </box>
+  </image>
+</images>
+</dataset>

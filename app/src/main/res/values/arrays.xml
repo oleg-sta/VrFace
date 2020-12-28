@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="points2DTo3D" translatable="false">
+        <item>35;26</item>
+        <item>31;59</item>
+        <item>30;5</item>
+        <item>33;6</item>
+        <item>28;94</item>
+        <item>34;111</item>
+        <item>32;112</item>
+        <item>36;53</item>
+        <item>37;98</item>
+        <item>38;104</item>
+        <item>39;56</item>
+        <item>40;110</item>
+        <item>41;100</item>
+        <item>42;23</item>
+        <item>43;103</item>
+        <item>44;97</item>
+        <item>45;20</item>
+        <item>46;99</item>
+        <item>47;109</item>
+        <item>17;48</item>
+        <item>19;49</item>
+        <item>21;50</item>
+        <item>22;17</item>
+        <item>24;16</item>
+        <item>26;15</item>
+        <item>48;64</item>
+        <item>51;7</item>
+        <item>54;31</item>
+        <item>57;8</item>
+        <item>53;79</item>
+        <item>49;80</item>
+        <item>55;85</item>
+        <item>59;86</item>
+        <item>60;89</item>
+        <item>62;87</item>
+        <item>64;88</item>
+        <item>66;40</item>
+        <item>7;65</item>
+        <item>8;10</item>
+        <item>9;32</item>
+        <item>0;62</item>
+        <item>2;61</item>
+        <item>4;63</item>
+        <item>16;29</item>
+        <item>14;28</item>
+        <item>12;30</item>
+    </string-array>
+</resources>
