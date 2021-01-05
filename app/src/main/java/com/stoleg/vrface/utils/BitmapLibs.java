@@ -4,10 +4,6 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-/**
- * Created by sov on 10.02.2017.
- */
-
 public class BitmapLibs {
 
     public static Bitmap getSampledResource(Context context, int resourceId) {

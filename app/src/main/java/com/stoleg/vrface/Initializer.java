@@ -11,10 +11,6 @@ import org.opencv.android.OpenCVLoader;
 
 import com.stoleg.vrface.commonlib.R;
 
-/**
- * Created by sov on 05.08.2017.
- */
-
 public class Initializer {
 
     public static CompModel compModel;

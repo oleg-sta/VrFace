@@ -14,10 +14,6 @@ import java.io.IOException;
 
 import com.stoleg.vrface.utils.FileUtils;
 
-/**
- * Created by sov on 04.01.2017.
- */
-
 public class CompModel {
 
     private static final String TAG = "CompModel_class";

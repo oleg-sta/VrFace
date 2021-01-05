@@ -11,9 +11,6 @@ import java.util.zip.ZipInputStream;
 
 import android.content.Context;
 import android.util.Log;
-/**
- * Created by sov on 14.01.2017.
- */
 
 public class Decompress {
     private static final int BUFFER_SIZE = 1024 * 10;

@@ -4,10 +4,6 @@ import org.opencv.core.Mat;
 
 import com.stoleg.vrface.commonlib.R;
 
-/**
- * Created by sov on 06.01.2017.
- */
-
 public class Static {
 
     public static boolean makePhoto;
