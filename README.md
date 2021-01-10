@@ -10,7 +10,19 @@ Demonstration video:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## How to use it?
-You need to download dlib [model](http://dlib.net/files/). Put it in assets as sp68.dat file. The file is heavy ~70 Mbytes.
+
+Download model file from http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2.
+Unzip it, like this `bzip2 -d shape_predictor_68_face_landmarks.dat.bz2`.
+As a result you should have file `shape_predictor_68_face_landmarks.dat`,
+rename it to `sp68.dat`, and put under the directory `app/src/main/assets/`.
+
+Add maven repository:
+
+```
+maven {
+            url "https://dl.bintray.com/olegst/maven"
+        }
+```
 
 Add dependency:
 
@@ -51,8 +63,10 @@ Load library, configure camera and GlSurfaceView:
     getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 ```
 
-example of application: 
-
+Example of application:
+* https://github.com/oleg-sta/FaceMaskExample
+* https://github.com/oleg-sta/Masks
+* https://github.com/oleg-sta/MakeUp
 
 
 ## How it works?
