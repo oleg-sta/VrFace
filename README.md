@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Android library for Augmented reality effects on face
+Android library for Augmented reality effects on face.
 Demonstration video:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tnyJwTl7KT4
@@ -63,8 +63,8 @@ Load library, configure camera and GlSurfaceView:
     getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 ```
 
-Example of application:
-* https://github.com/oleg-sta/FaceMaskExample
+Examples of application:
+* https://github.com/oleg-sta/FaceMaskExample - direct using of this library
 * https://github.com/oleg-sta/Masks
 * https://github.com/oleg-sta/MakeUp
 
