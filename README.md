@@ -70,4 +70,5 @@ Examples of application:
 
 
 ## How it works?
-...
+
+Please read blog about this https://oleg-sta.github.io/site/2021/android-augmented-reality.html
